@@ -12,4 +12,8 @@ class PlaygroundWebBackendApplicationTests {
     void contextLoads() {
         assertEquals("Expected correct message","Hello World","Hello "+"World");
     }
+    @Test
+    void newTest() {
+        assertEquals("Expected correct message","true","true");
+    }
 }
