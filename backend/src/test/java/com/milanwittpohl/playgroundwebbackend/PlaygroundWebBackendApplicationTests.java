@@ -14,6 +14,6 @@ class PlaygroundWebBackendApplicationTests {
     }
     @Test
     void newTest() {
-        assertEquals("Expected correct message","true","true");
+        assertEquals("Expected correct message","t rue","true");
     }
 }
